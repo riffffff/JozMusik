@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JozMusik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Already have an account? <font color="#4CAF50">Login here</font></string>
+    <string name="register_text">Do not have an account? <font color="#4CAF50"> Register here</font></string>
+</resources>

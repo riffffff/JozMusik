@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_700">#008080</color>
+    <color name="gray">#707371</color>
+    <color name="green">#206e35</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="gray_200">#FFEEEEEE</color>
+
+    <color name="gradient_start_dark">#303030</color>
+    <color name="gradient_end_dark">#1C1C1C</color>
+
+    <!-- Green Accent -->
+    <color name="green_accent">#4CAF50</color>
+    <color name="green_accent_light">#0a7d06</color>
+
+    <!-- Gray Dark -->
+    <color name="gray_dark">#424242</color>
+</resources>
