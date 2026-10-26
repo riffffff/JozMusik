@@ -8,12 +8,8 @@ JozMusik adalah aplikasi pemutar dan pengelola playlist musik berbasis Android y
 * **Dosen Pengampu**: Margareta Hardiyanti S.Kom., M.Eng
 * **Program Studi / Jurusan**: Teknologi Rekayasa Perangkat Lunak
 
-### Anggota Kelompok / Pengembang
-
-| Nama Mahasiswa | NIM |
-| --- | --- | --- |
-| Muhammad Rifai Firdaus | 23/522149/SV/23614 |
----
+### Pengembang
+Muhammad Rifai Firdaus | 23/522149/SV/23614 
 
 ## Daftar Isi
 
