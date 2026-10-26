@@ -4,18 +4,15 @@ JozMusik adalah aplikasi pemutar dan pengelola playlist musik berbasis Android y
 
 ## Informasi Akademik / Tugas Kuliah
 
-* **Mata Kuliah**: [Nama Mata Kuliah, contoh: Pemrograman Platform Bergerak]
-* **Dosen Pengampu**: [Nama Dosen Pengampu]
-* **Program Studi / Jurusan**: [Nama Program Studi]
-* **Instansi / Universitas**: [Nama Perguruan Tinggi]
+* **Mata Kuliah**: Pemrograman Perangkat Aplikasi Bergerak
+* **Dosen Pengampu**: Margareta Hardiyanti S.Kom., M.Eng
+* **Program Studi / Jurusan**: Teknologi Rekayasa Perangkat Lunak
 
 ### Anggota Kelompok / Pengembang
 
-| Nama Mahasiswa | NIM | Peran |
+| Nama Mahasiswa | NIM |
 | --- | --- | --- |
-| [Nama Anda / Anggota 1] | [NIM 1] | Developer / Lead |
-| [Nama Anggota 2] | [NIM 2] | Developer |
-
+| Muhammad Rifai Firdaus | 23/522149/SV/23614 |
 ---
 
 ## Daftar Isi
@@ -77,9 +74,6 @@ com.example.jozmusik
 ## Instalasi dan Penggunaan
 
 1. Clone repositori ini ke komputer lokal Anda:
-   ```bash
-   git clone <URL_REPOSITORY>
-   ```
 2. Buka Android Studio dan pilih menu **Open**, kemudian arahkan ke direktori proyek `JozMusik`.
 3. Jalankan proses **Sync Project with Gradle Files** dan tunggu hingga seluruh dependensi terunduh.
 4. Hubungkan perangkat Android fisik atau jalankan Android Virtual Device (Emulator).
